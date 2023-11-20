@@ -26,7 +26,7 @@ The methodology extends to the incorporation of an emotion classifier, utilizing
 ## Methodology
 
 <p align="center">
-![FlowDiagram](https://github.com/Kaushika-Anandh/Emotion-Based-Analysis-for-Detecting-Fake-News-on-Social-Media/assets/94164580/8ebbf784-8346-41df-a56d-f6b7d8d5dfa9)
+<img src="https://github.com/Kaushika-Anandh/Emotion-Based-Analysis-for-Detecting-Fake-News-on-Social-Media/blob/main/FlowDiagram.PNG">
 </p>
 
 **Data Collection**
@@ -69,7 +69,7 @@ The methodology extends to the incorporation of an emotion classifier, utilizing
 ## Output 
 
 <p align="center">
-![Output](https://github.com/Kaushika-Anandh/Emotion-Based-Analysis-for-Detecting-Fake-News-on-Social-Media/assets/94164580/5d0b446d-9bcd-435c-b10c-ca51779dd28e)
+<img src="https://github.com/Kaushika-Anandh/Emotion-Based-Analysis-for-Detecting-Fake-News-on-Social-Media/blob/main/Output.PNG">
 </p>
 
 ## Conclusion
