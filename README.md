@@ -1,4 +1,7 @@
 # Emotion-Based-Analysis-for-Detecting-Fake-News-on-Social-Media
+Mini Project 
+Proposed By : Kaushika A
+Register Number : 212221230048
 
 # Project Overview
 ## Introduction
